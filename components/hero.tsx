@@ -8,8 +8,8 @@ export function Hero() {
         Samuel DePrimo
       </h1>
       <p className="mt-5 max-w-2xl text-lg leading-relaxed text-muted-foreground">
-        Scientist with deep experience and expertise in clinical biomarkers and
-        translational medicine.
+        Scientist and manager with deep experience and expertise in clinical
+        biomarkers and translational medicine in the biotech/pharma industry.
       </p>
     </header>
   )

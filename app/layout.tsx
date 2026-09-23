@@ -16,7 +16,7 @@ const sourceSerif = Source_Serif_4({
 export const metadata: Metadata = {
   title: 'Samuel DePrimo — Clinical Biomarkers & Translational Medicine',
   description:
-    'Samuel DePrimo, scientist with deep experience and expertise in clinical biomarkers and translational medicine across oncology and immunology programs.',
+    'Samuel DePrimo, scientist and manager with deep experience and expertise in clinical biomarkers and translational medicine in the biotech/pharma industry.',
   generator: 'v0.app',
   icons: {
     icon: [
