@@ -5,8 +5,11 @@ export function Hero() {
         Clinical Biomarkers &middot; Translational Medicine
       </p>
       <h1 className="mt-4 font-serif text-4xl font-semibold leading-tight text-primary md:text-5xl">
-        Samuel DePrimo
+        Samuel DePrimo, PhD
       </h1>
+      <p className="mt-3 text-sm font-semibold uppercase tracking-widest text-primary">
+        Now on GitHub
+      </p>
       <p className="mt-5 max-w-2xl text-lg leading-relaxed text-muted-foreground">
         Scientist and manager with deep experience and expertise in clinical
         biomarkers and translational medicine in the biotech/pharma industry.
